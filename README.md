@@ -28,6 +28,6 @@ Epoch 1/20 - loss: 1.8733 - accuracy: 0.3265 - val_loss: 2.1211 - val_accuracy: 
 ...
 Epoch 20/20 - loss: 0.8512 - accuracy: 0.7063 - val_loss: 0.8995 - val_accuracy: 0.6892
 
-'''
+---
 **Test Accuracy**: 68.92%
-'''
+---
